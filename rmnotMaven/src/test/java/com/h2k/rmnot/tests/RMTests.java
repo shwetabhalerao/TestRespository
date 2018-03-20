@@ -55,8 +55,11 @@ public class RMTests extends BaseClass
 	}
 	
 	@Test(priority=3)
-	public void tc3()
-	{}
+	public void testcase3()
+	{
+		
+		
+	}
 	
 	
 }
