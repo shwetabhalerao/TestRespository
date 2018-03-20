@@ -54,4 +54,9 @@ public class RMTests extends BaseClass
 	catch(Exception e){}
 	}
 	
+	@Test(priority=3)
+	public void tc3()
+	{}
+	
+	
 }
