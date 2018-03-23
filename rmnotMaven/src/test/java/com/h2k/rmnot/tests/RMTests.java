@@ -54,4 +54,9 @@ public class RMTests extends BaseClass
 	catch(Exception e){}
 	}
 	
+	@Test(priority=2)
+	public void ValidateStoryABCD()
+	{
+		System.out.println("Testing Story ABCD");
+	}
 }
